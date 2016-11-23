@@ -1,4 +1,6 @@
-A simple qt application for trial includes;
+A simple qt application for trial.
+
+Includes;
 
 File/Directory operations: Create, check, read, write.
 

@@ -19,3 +19,6 @@ HEADERS  += mainwindow.h \
     dir_file_operations.h
 
 FORMS    += mainwindow.ui
+
+DISTFILES += \
+    README.md
